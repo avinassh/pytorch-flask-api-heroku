@@ -1,0 +1,6 @@
+{
+  "name": "PyTorch Image Detection",
+  "description": "Image Classifier built using PyTorch",
+  "repository": "https://github.com/avinassh/pytorch-flask-api-heroku",
+  "keywords": ["python", "flask", "pytorch", "bootstrap"]
+}
