@@ -3,7 +3,7 @@
 
 Check the demo [here](https://pytorch-imagenet.herokuapp.com/).
 
-If you'd like to check a super simple API server, then check [this repo](https://github.com/avinassh/pytorch-flask-api-heroku).
+If you'd like to check a super simple API server, then check [this repo](https://github.com/avinassh/pytorch-flask-api).
 
 
 ## Requirements
